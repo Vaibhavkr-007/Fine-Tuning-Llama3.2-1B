@@ -22,7 +22,7 @@ This is a fine-tuned version of the **Llama-3.2-1B** base model, optimized for *
 
 - **Developed by:** Meta-Llama
 - **Model type:** Language Model
-- **Fine-tuned from model:** meta-llama/Llama-3.2-1B
+- **Fine-tuned from model:** [Llama3.2-1B-FinedTuned-MedicalQA](https://huggingface.co/Vaibhavkr007/Llama3.2-1B-FinedTuned-MedicalQA)
 - **Fine-tuned dataset:** [FreedomIntelligence/medical-o1-reasoning-SFT](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
 - **Languages Supported:** English
 - **License:** [Model License Information]
